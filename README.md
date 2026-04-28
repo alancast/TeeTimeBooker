@@ -1,10 +1,10 @@
 # 🏌️ Tee Time Booker
 
-An automated Python bot that books tee times. For now starting with **Mangrove Bay Golf Club** (St. Petersburg, FL) on Chronogolf. Planning to be built with Playwright for reliable browser automation and AI agents for smart decision-making.
+An automated Python bot that books tee times. For now starting with **Mangrove Bay Golf Club** (St. Petersburg, FL). Planning to be built with Playwright for reliable browser automation and AI agents for smart decision-making.
 
 ## Mangrove Bay
 
-**Bookings open 7 days in advance at 6:00 AM** — this bot wakes up early, checks availability, and books my preferred slots.
+**Bookings open 7 days in advance at 6:00 AM** — this bot wakes up early, checks availability, and books my preferred slots. Mangrove Bay uses ForeUp for it's reservation system
 
 ---
 

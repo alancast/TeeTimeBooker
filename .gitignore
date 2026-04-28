@@ -1,3 +1,8 @@
+# Playwright debug artifacts
+screenshots/
+traces/
+playwright-report/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

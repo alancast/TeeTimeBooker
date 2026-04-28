@@ -1,0 +1,30 @@
+course_name: "Mangrove Bay Golf Club"
+
+# Booking preferences
+players: 4
+
+preferred_time_windows:
+  - start: "09:00"
+    end: "11:30"
+  - start: "13:00"
+    end: "15:30"
+
+preferences:
+  prefer_walking: true
+  allow_carts: true
+  max_price_per_player: 95
+
+# Booking settings
+booking:
+  days_in_advance: 7
+  target_run_time: "05:55"        # Run a few minutes before 6 AM
+
+# AI Settings
+# ai:
+#   enabled: true
+#   model: "gpt-4o-mini"            # or "claude-3-5-sonnet", etc.
+#   temperature: 0.3
+
+# General bot behavior
+dry_run: true                     # Change to false when ready to book
+headless: true

@@ -1,5 +1,8 @@
 # 🏌️ Tee Time Booker
 
+**This repo will be retired because I built [this one](https://github.com/wardcrazy01894/TeeTimeBooker) leveraging Claude.
+It's much better. I could have done it here but it would ruin my commit history for my chart spelling.**
+
 An automated Python bot that books tee times. For now starting with **Mangrove Bay Golf Club** (St. Petersburg, FL). Planning to be built with Playwright for reliable browser automation and AI agents for smart decision-making.
 
 ## Mangrove Bay
